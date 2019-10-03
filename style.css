@@ -322,21 +322,6 @@ form> #btn-n{
 .ul li a{
     position: relative;
 }
-.ul >li >a::after{
-    width: 0%;
-    -webkit-transition: all 0.3s linear;
-    transition: all 0.3s linear;
-    position: absolute;
-    height: 3px;
-    background: #0088a9;
-    bottom: -4px;
-    content: '';
-    left: 0;
-    z-index: 11;
-}
-.ul >li> a:hover::after{
-    width:100%;
-}
 
 #section-a .content-text p{
   padding-top: 0;
