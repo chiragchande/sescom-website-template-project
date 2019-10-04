@@ -1,1 +1,0 @@
-# sescom-website-template-project
